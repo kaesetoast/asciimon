@@ -1,0 +1,28 @@
+{
+  "name": "asciimon",
+  "version": "0.1.0",
+  "description": "Get a nice little ascii animation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaesetoast/asciimon.git"
+  },
+  "keywords": [
+    "ascii",
+    "animation",
+    "monster"
+  ],
+  "author": "Philipp Nowinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaesetoast/asciimon/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-jshint": "~0.9.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-jsbeautifier": "~0.2.6"
+  }
+}
